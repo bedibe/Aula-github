@@ -1,2 +1,3 @@
-# aula-github
+# Aula-github
  Esse é um projeto do curso programadores carioca
+ Essa foi a primeria aula de como postar um repositório no GITHUB.
